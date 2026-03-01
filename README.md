@@ -1,5 +1,5 @@
-# 💫 About Me:
-# Hi, I'm Hania 👋  <br><br>💻 Full-Stack Web Developer | 🎨 Graphic Designer  <br><br>I'm a Computer Science student from Karachi passionate about building responsive websites and backend systems.<br><br>## 💻 Tech Stack<br>**Frontend:** HTML, CSS, Bootstrap, JavaScript, WordPress  <br>**Backend:** SQL, MySQL, PHP, .NET, C#  <br>**Database:** MySQL, SQL Server  <br>
+# 💫 About Me: 
+Hi, I'm Hania 👋  <br><br>💻 Full-Stack Web Developer | 🎨 Graphic Designer  <br><br>I'm a Computer Science student from Karachi passionate about building responsive websites and backend systems.<br><br>## 💻 Tech Stack<br>**Frontend:** HTML, CSS, Bootstrap, JavaScript, WordPress  <br>**Backend:** SQL, MySQL, PHP, .NET, C#  <br>**Database:** MySQL, SQL Server  <br>
 
 
 # 💻 Tech Stack:
