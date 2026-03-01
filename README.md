@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Hania 👋  
 
-<!--
-**haniaa21/haniaa21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Web Developer | 🎨 Graphic Designer  
 
-Here are some ideas to get you started:
+I'm a Computer Science student from Karachi passionate about building responsive websites and backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+**Frontend:** HTML, CSS, Bootstrap, JavaScript, WordPress  
+**Backend:** SQL, MySQL, PHP, .NET, C#  
+**Database:** MySQL, SQL Server  
+
+## 🌱 Currently Learning
+ASP.NET & Advanced C#
